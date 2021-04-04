@@ -1,0 +1,32 @@
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.deps.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\bin\Debug\net5.0\ref\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.pdb
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\ref\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.pdb
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.deps.json
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.runtimeconfig.json
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.runtimeconfig.dev.json
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\ref\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Infra.pdb
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Domain.dll
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Domain.pdb
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\bin\Debug\net5.0\HumanResources.Core.pdb
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.csproj.CopyComplete
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\ref\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.pdb
+C:\Repositories\Local Repository\HumanResources\src\4 - HumanResources.Infra\HumanResources.Infra\obj\Debug\net5.0\HumanResources.Infra.genruntimeconfig.cache

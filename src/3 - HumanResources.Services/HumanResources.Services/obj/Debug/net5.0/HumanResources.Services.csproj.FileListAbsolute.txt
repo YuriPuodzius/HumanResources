@@ -1,0 +1,31 @@
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\bin\Debug\net5.0\HumanResources.Services.deps.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\bin\Debug\net5.0\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\bin\Debug\net5.0\ref\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\bin\Debug\net5.0\HumanResources.Services.pdb
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\ref\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.pdb
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Services.deps.json
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\ref\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Services.pdb
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Domain.dll
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Infra.pdb
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Core.pdb
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\bin\Debug\net5.0\HumanResources.Domain.pdb
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.csproj.CopyComplete
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\ref\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\3 - HumanResources.Services\HumanResources.Services\obj\Debug\net5.0\HumanResources.Services.pdb

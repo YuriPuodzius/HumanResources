@@ -1,0 +1,24 @@
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\bin\Debug\net5.0\HumanResources.Core.deps.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\bin\Debug\net5.0\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\bin\Debug\net5.0\ref\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\bin\Debug\net5.0\HumanResources.Core.pdb
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\ref\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.pdb
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\bin\Debug\net5.0\HumanResources.Core.deps.json
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\bin\Debug\net5.0\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\bin\Debug\net5.0\ref\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\bin\Debug\net5.0\HumanResources.Core.pdb
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\ref\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\5 - HumanResources.Core\HumanResources.Core\obj\Debug\net5.0\HumanResources.Core.pdb

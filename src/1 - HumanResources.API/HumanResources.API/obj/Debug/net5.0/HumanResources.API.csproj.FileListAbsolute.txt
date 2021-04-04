@@ -1,0 +1,99 @@
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\appsettings.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\HumanResources.API.exe
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\HumanResources.API.deps.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\HumanResources.API.runtimeconfig.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\HumanResources.API.runtimeconfig.dev.json
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\ref\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\HumanResources.API.pdb
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\staticwebassets\HumanResources.API.StaticWebAssets.Manifest.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\staticwebassets\HumanResources.API.StaticWebAssets.xml
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\scopedcss\bundle\HumanResources.API.styles.css
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.RazorTargetAssemblyInfo.cache
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.csproj.CopyComplete
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\ref\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.pdb
+C:\Repositories\Local Repository\HumanResources\src\HumanResources.API\obj\Debug\net5.0\HumanResources.API.genruntimeconfig.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\appsettings.json
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.API.exe
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.API.deps.json
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.API.runtimeconfig.json
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.API.runtimeconfig.dev.json
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\ref\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.API.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Core.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Domain.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Infra.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Services.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Services.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Core.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Domain.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\HumanResources.Infra.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.csprojAssemblyReference.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.AssemblyInfoInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.AssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.csproj.CoreCompileInputs.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\staticwebassets\HumanResources.API.StaticWebAssets.Manifest.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\staticwebassets\HumanResources.API.StaticWebAssets.xml
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\scopedcss\bundle\HumanResources.API.styles.css
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.RazorTargetAssemblyInfo.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.csproj.CopyComplete
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\ref\HumanResources.API.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.pdb
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\obj\Debug\net5.0\HumanResources.API.genruntimeconfig.cache
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Repositories\Local Repository\HumanResources\src\1 - HumanResources.API\HumanResources.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll

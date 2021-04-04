@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQEV0tv0GfPTLCvgtTkS7gO+Wx0ZBtkJnE8I+1X8s4eBciwIIC09fp6G3J6HXokt7LWkqXIIfuKDwygP8KmJlA==",
+  "success": true,
+  "projectFilePath": "C:\\Repositories\\Local Repository\\HumanResources\\src\\2 - HumanResources.Domain\\HumanResources.Domain\\HumanResources.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
