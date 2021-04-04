@@ -42,8 +42,7 @@ namespace HumanResources.Domain.Entities
             Email = email;
             Validate();
         }
-
-
+        
         public override bool Validate()
         {
             var validator = new UserValidator();
